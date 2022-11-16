@@ -1,0 +1,26 @@
+{
+  "name": "cypress-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/damian-nrj/cypress-app.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/damian-nrj/cypress-app/issues"
+  },
+  "homepage": "https://github.com/damian-nrj/cypress-app#readme",
+  "devDependencies": {
+    "cypress": "^11.1.0",
+    "eslint": "^8.27.0",
+    "eslint-plugin-cypress": "^2.12.1",
+    "prettier": "^2.7.1",
+    "typescript": "^4.9.3"
+  }
+}
